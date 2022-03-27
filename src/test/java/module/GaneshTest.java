@@ -8,6 +8,7 @@ public class GaneshTest {
 	public void createInv() {
 		System.out.println("invoice created");
 		System.out.println("hii friend");
+		System.out.println("done");
 	}
 
 }
