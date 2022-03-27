@@ -10,5 +10,11 @@ public class DemoTest {
 		System.out.println("concaet created");
 		System.out.println("hARE KRISHNA");
 		
+		
+	}
+	@Test
+	
+	public void createorg() {
+		System.out.println("org created");
 	}
 }
