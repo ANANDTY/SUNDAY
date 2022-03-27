@@ -7,7 +7,7 @@ public class GaneshTest {
 	@Test
 	public void createInv() {
 		System.out.println("invoice created");
-		System.out.println("hii");
+		System.out.println("hii friend");
 	}
 
 }
